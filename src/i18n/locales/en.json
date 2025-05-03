@@ -1,0 +1,52 @@
+{
+  "nav": {
+    "home": "Home",
+    "restaurants": "Restaurants",
+    "about": "About",
+    "search": "Search restaurants...",
+    "location": "Addis Ababa"
+  },
+  "hero": {
+    "title": "Discover, Dine, Save with Yummy!",
+    "subtitle": "Find the best restaurants in Addis Ababa"
+  },
+  "cuisines": {
+    "title": "Explore Cuisines",
+    "subtitle": "Discover diverse culinary experiences in Addis Ababa, from traditional Ethiopian dishes to international favorites",
+    "restaurants": "restaurants"
+  },
+  "featured": {
+    "title": "Top Rated Restaurants",
+    "subtitle": "Discover the highest-rated dining experiences in Addis Ababa",
+    "viewAll": "View all"
+  },
+  "highlights": {
+    "title": "Discover Addis Ababa's Best Flavors",
+    "subtitle": "Your ultimate guide to the city's diverse culinary scene",
+    "diverse": {
+      "title": "Diverse Cuisines",
+      "description": "Explore traditional Ethiopian dishes, Italian influences, and international favorites"
+    },
+    "reviews": {
+      "title": "Trusted Reviews",
+      "description": "Authentic ratings and reviews from local food enthusiasts and visitors"
+    },
+    "location": {
+      "title": "Convenient Location",
+      "description": "Find the best restaurants nearby in all neighborhoods across Addis Ababa"
+    }
+  },
+  "cta": {
+    "title": "Ready to Experience Addis Ababa's Flavors?",
+    "subtitle": "Explore our curated list of the best restaurants in the city",
+    "button": "Find Restaurants"
+  },
+  "footer": {
+    "about": "Discover the best local flavors in Addis Ababa. Your trusted guide to Ethiopia's vibrant culinary scene.",
+    "quickLinks": "Quick Links",
+    "cuisines": "Cuisines",
+    "contact": "Contact Us",
+    "rights": "All rights reserved",
+    "designed": "Designed with ❤️ in Addis Ababa"
+  }
+}

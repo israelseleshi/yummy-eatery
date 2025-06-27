@@ -1,7 +1,10 @@
 Yummy Food Review 🍽️
+
 Project Overview 📖
+
 Yummy is a food review platform for restaurants in Addis Ababa, Ethiopia, connecting diners and restaurants with a user-friendly interface. This prototype serves as a proof of concept, with some integrations not fully production-ready. 🌟
 Project URL: yummy-eatery.netlify.app 🔗
+
 Key Features ✨
 
 User Authentication & Authorization 🔐
